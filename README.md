@@ -1,4 +1,4 @@
-# MVA-ComputationalStatistics
+# MVA-Computational-Statistics
 
 Computational Statistics class, MVA 2024. Projects and assignments
 
